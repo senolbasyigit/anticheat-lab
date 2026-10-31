@@ -1,6 +1,6 @@
 # RPA mode
 
-No memory scanning of third-party apps. Adresses change on every update and the data is often sensitive.
+No memory scanning of third-party apps. Addresses change on every update and the data is often sensitive.
 
 ## Selection
 
